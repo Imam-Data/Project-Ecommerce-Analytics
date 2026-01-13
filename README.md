@@ -25,7 +25,7 @@ This project focuses on analyzing consumer behavior and sales performance using 
 ---
 
 ## How to Explore the Project
-1. **Open File:** Launch the `E-commerce Dashboard.pbix` (./E-commerce%20Dashboard.pbix) file using **Power BI Desktop**.
+1. **Open File:** Download and open the [E-commerce Dashboard.pbix](./E-commerce%20Dashboard.pbix) file using **Power BI Desktop**.
 2. **Interact:** Use the **Country** and **Payment Method** slicers to filter metrics dynamically.
 3. **Analyze:** Observe the **Age Grouping** and **Sales Trend** charts to understand customer segmentation and annual growth.
 
