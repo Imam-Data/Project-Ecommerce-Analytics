@@ -1,35 +1,43 @@
-# E-Commerce Consumer Behavior Analysis
+# Hi there, I'm a Junior Data Analyst! 👋
 
-## 1. Project Overview
-This project focuses on analyzing consumer behavior and sales performance using a dataset of **50,000 e-commerce transactions**. By transforming raw data into an interactive dashboard, this project provides strategic insights into customer demographics, purchasing trends, and payment preferences for the 2023-2025 period.
+### Detail-Oriented & Results-Driven
 
-## 2. Key Workflow
-* **Data Preparation (Excel):** Performed feature engineering by creating **"Age Grouping"** columns using IF logic to categorize customers into 4 brackets: 18-25, 26-35, 36-50, and 50+.
-* **Data Visualization (Power BI):** Developed an interactive dashboard with a sleek Dark Mode UI to monitor business health and growth fluctuations.
-* **Trend Analysis:** Visualized Sales Trend Analysis for the 2023-2025 period to monitor annual business growth and fluctuations.
-
-## 3. Key Business Insights
-* **Performance Metrics:** Achieved a Total Revenue of **$25.16M** from **50K Total Orders**.
-* **Top Category:** **Sports** emerged as the top-performing product category.
-* **Demographic Leads:** Identified the **50+ age segment** as the largest revenue contributor, generating **$9.4M** in sales.
-* **Transaction Preferences:** Mapped payment method distributions, highlighting **UPI** and **Cash on Delivery (COD)** as the primary transaction methods used by customers.
+Building a career in data through practical execution. I specialize in transforming raw, messy data into actionable insights using SQL, Power BI, and building interactive dashboards in Excel.
 
 ---
 
-## Tools Used
-| Tool | Purpose |
-| :--- | :--- |
-| **Microsoft Excel** | Data Cleaning & Feature Engineering (Age Grouping) |
-| **Power BI** | Data Modeling, and Interactive Dashboard Design |
+### Tech Stack & Skills
+
+**Core Tools:**
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+
+**What I Bring to the Table:**
+* **Data Visualization (Power BI & Excel):** Developing end-to-end interactive dashboards and utilizing **Power Query** for automated ETL and data transformation.
+* **SQL (MySQL):** Proficient in Joins, Aggregations, CTEs, Window Functions, and Data Cleaning.
+* **Advanced Excel:** Complex Formulas (XLOOKUP, INDEX-MATCH), **Feature Engineering (IF/Nested Logic)**, and Dynamic Dashboards.
+* **Business Acumen:** Ability to translate data trends into strategic recommendations (e.g., Demographic targeting, Sales trend forecasting).
 
 ---
 
-## How to Explore the Project
-1. **Open File:** Download and open the [E-commerce Dashboard.pbix](./E-commerce%20Dashboard.pbix) file using **Power BI Desktop**.
-2. **Interact:** Use the **Country** and **Payment Method** slicers to filter metrics dynamically.
-3. **Analyze:** Observe the **Age Grouping** and **Sales Trend** charts to understand customer segmentation and annual growth.
+### Recent Portfolio
+
+| Project | Description | Key Skills |
+| :--- | :--- | :--- |
+| [**E-Commerce Behavior Analysis**](https://github.com/Imam-Data/Project-Ecommerce-Analytics) | **End-to-End PBI Project**. Analyzed 50k transactions. Discovered the **50+ age segment** as the top revenue contributor ($9.4M) and **Sports** as the lead category. | Power BI (Interactive Dashboard), Excel (Age Grouping Logic), Power Query |
+| [**Coffee Shop Sales Dashboard**](https://github.com/Imam-Data/Coffee-Sales-Dashboard) | **End-to-End Excel Project**. Built a fully interactive dashboard to track Sales KPIs. Uncovered key insights: **2.5kg bags** are best-sellers. | Excel Dashboarding, Data Modeling, Slicers & Timeline, XLOOKUP |
+| [**World Layoffs Exploration**](https://github.com/Imam-Data/World-Layoffs-Data-Analysis) | **Exploratory Data Analysis (EDA)** of global crisis trends (2020-2025). Used advanced SQL to analyze industry impacts. | SQL (Window Functions, CTEs), Data Visualization |
+| [**Global Layoffs Data Cleaning**](https://github.com/Imam-Data/Global-Layoffs-Data-Cleaning) | **Excel Data Transformation**. Transformed a 4,200-row raw dataset by auditing consistency and removing 55% noise. | Excel (Text-to-Columns, Pivot Tables), Data Quality Assurance |
+| [**Danny's Diner SQL Analysis**](https://github.com/Imam-Data/SQL-Case-Study-Dannys-Diner) | Solved **10+ business questions** regarding customer retention and spending habits for a restaurant case study. | SQL (Joins, Aggregations), Business Logic |
 
 ---
 
-## Final Dashboard Preview
-![E-commerce Dashboard Screenshot](E-commerce%20Dashboard.png)
+### Current Status
+**Open to work** as a **Junior Data Analyst** or **Data Admin**.
+I am eager to learn, adapt, and deliver results.
+
+---
+
+### 📫 Connect with Me
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:itsimamr@gmail.com)
