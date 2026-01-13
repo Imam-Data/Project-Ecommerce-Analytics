@@ -1,4 +1,4 @@
-# E-Commerce Consumer Behavior Analysis 📊
+# E-Commerce Consumer Behavior Analysis
 
 ## 1. Project Overview
 This project focuses on analyzing consumer behavior and sales performance using a dataset of **50,000 e-commerce transactions**. By transforming raw data into an interactive dashboard, this project provides strategic insights into customer demographics, purchasing trends, and payment preferences for the 2023-2025 period.
@@ -20,12 +20,12 @@ This project focuses on analyzing consumer behavior and sales performance using 
 | Tool | Purpose |
 | :--- | :--- |
 | **Microsoft Excel** | Data Cleaning & Feature Engineering (Age Grouping) |
-| **Power BI** | Data Modeling, DAX, and Interactive Dashboard Design |
+| **Power BI** | Data Modeling, and Interactive Dashboard Design |
 
 ---
 
 ## How to Explore the Project
-1. **Open File:** Launch the `E-commerce Dashboard.pbix` file using **Power BI Desktop**.
+1. **Open File:** Launch the `E-commerce Dashboard.pbix` (./E-commerce%20Dashboard.pbix) file using **Power BI Desktop**.
 2. **Interact:** Use the **Country** and **Payment Method** slicers to filter metrics dynamically.
 3. **Analyze:** Observe the **Age Grouping** and **Sales Trend** charts to understand customer segmentation and annual growth.
 
