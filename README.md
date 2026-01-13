@@ -1,12 +1,15 @@
-# E-Commerce Consumer Behavior Analysis 📊
+# E-Commerce Consumer Behavior Analysis
 
 ## 1. Project Overview
-This project focuses on analyzing consumer behavior and sales performance using a dataset of **50,000 e-commerce transactions**. By transforming raw data into an interactive dashboard, this project provides strategic insights into customer demographics, purchasing trends, and payment preferences for the 2023-2025 period.
+This project focuses on analyzing consumer behavior and sales performance using an e-commerce transaction dataset. By transforming raw data into an interactive dashboard, this project provides strategic insights into customer demographics, purchasing trends, and payment preferences for the 2023-2025 period.
+
+* **Data Source:** [E-Commerce Transactions Dataset (Kaggle)](https://www.kaggle.com/datasets/smayanj/e-commerce-transactions-dataset)
+* **Dataset Size:** 50,000 transaction records.
 
 ## 2. Key Workflow
 * **Data Preparation (Excel):** Performed feature engineering by creating **"Age Grouping"** columns using IF logic to categorize customers into 4 brackets: 18-25, 26-35, 36-50, and 50+.
 * **Data Visualization (Power BI):** Developed an interactive dashboard with a professional interface to monitor business health and growth fluctuations.
-* **Data Transformation:** Utilized **Power Query** to ensure data consistency and clean the 50,000 raw transaction records before visualization.
+* **Data Transformation:** Utilized **Power Query** to ensure data consistency and clean the raw transaction records before visualization.
 * **Trend Analysis:** Visualized Sales Trend Analysis for the 2023-2025 period to monitor annual business growth.
 
 ## 3. Key Business Insights
